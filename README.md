@@ -1,82 +1,97 @@
-# ▶️ A Lite Player
+# ▶️ ON Player
 
-A Lite Player is a lightweight media player application designed for Android devices.
+A lightweight Android media player application.
 
 > 📌 This page is maintained by the HDO PRO community for informational, archival, and reference purposes only.
 >
-> We are **not the developers, owners, or maintainers** of A Lite Player. This repository exists only as a notes and memory archive for the app and related resources.
+> We are **not the developers, owners, or maintainers** of ON Player. This repository exists solely for notes, documentation, historical reference, and community memory preservation.
 
 ---
 
 ## 📱 Official App Sources
 
-### Google Play
+### Google Play Store
 
-- Google Play Store: https://play.google.com/store
+Search Google Play for:
 
-Search for:
-- "A Lite Player"
-- "Lite Player"
-- "A Player Lite"
+* ON Player
+* ONPlayer
+* ON Player Android
 
-Availability may vary by country and device.
+Availability may vary by region and device.
 
 ---
 
 ## 📦 Archive & APK Search Sources
 
-If the app is unavailable in your region or has been removed, you may be able to locate archived versions through app archive websites.
+If ON Player is unavailable in your region or has been removed, archived versions may be available through third-party app archives.
 
 ### APK Archives
 
-- APKMirror — https://www.apkmirror.com
-- APKPure — https://apkpure.com
-- Uptodown — https://www.uptodown.com
-- AppBrain — https://www.appbrain.com
-- APKCombo — https://apkcombo.com
+* APKMirror — https://www.apkmirror.com
+* APKPure — https://apkpure.com
+* Uptodown — https://www.uptodown.com
+* APKCombo — https://apkcombo.com
+* AppBrain — https://www.appbrain.com
 
-### Search Queries
+### Recommended Searches
 
-- A Lite Player APK
-- Lite Player APK
-- A Lite Player Android
-- A Lite Player Download
+* ON Player APK
+* ON Player Android
+* ONPlayer APK
+* ON Player Download
 
 ---
 
-## 🔍 Additional Search Resources
+## 🔍 Search & Research Resources
 
-### Web Search
+### Search Engines
 
-- Google Search: https://www.google.com/search?q=A+Lite+Player
-- DuckDuckGo: https://duckduckgo.com/?q=A+Lite+Player
+* Google — https://www.google.com/search?q=ON+Player
+* DuckDuckGo — https://duckduckgo.com/?q=ON+Player
 
-### Archive Services
+### Web Archives
 
-- Internet Archive: https://archive.org
-- Wayback Machine: https://web.archive.org
+* Internet Archive — https://archive.org
+* Wayback Machine — https://web.archive.org
+
+---
+
+## 📚 Related Notes
+
+This page may contain:
+
+* Historical information
+* Version references
+* Archive locations
+* Community notes
+* Research resources
+* Preservation links
 
 ---
 
 ## ⚠️ Disclaimer
 
-This repository does not host, distribute, or provide APK files.
+This repository does **not** host, distribute, provide, or link directly to APK files.
 
-All trademarks, logos, app names, and copyrights belong to their respective owners.
+All trademarks, logos, application names, and copyrights belong to their respective owners.
 
-This page is intended solely for:
+This repository is intended solely for:
 
-- Documentation
-- Historical reference
-- Notes and research
-- Community memory preservation
+* Documentation
+* Historical reference
+* Research
+* Community notes
+* Preservation efforts
 
 ---
 
-## 🎬 About HDO PRO
+## 🎬 HDO PRO Community Notice
 
-This repository is part of the HDO PRO community resource collection.
+This repository is maintained by the HDO PRO community as an informational archive.
 
-**HDO PRO is an independent community project and is not affiliated with, associated with, endorsed by, sponsored by, or connected to A Lite Player, HDO Box, or any official developers mentioned on this page.**
+**ON Player is the official player application used by HDO Box.**
 
-This page is maintained only as an informational archive for future reference.
+**HDO PRO is an independent community project and is NOT affiliated with, associated with, endorsed by, sponsored by, or connected to ON Player, HDO Box, or any of their official developers.**
+
+This page exists only as a community-maintained reference and memory archive.
